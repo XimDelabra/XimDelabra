@@ -1,4 +1,4 @@
-## Hi there, I'M Ximena Delabra 👋
+## Hi there, I'm Ximena Delabra 👋
 # 💫 About Me:
 🔭 I’m currently working on<br>- The development of an augmented reality project as a team<br>👯 I’m looking to collaborate on<br>- Web application development projects.<br>- Database management and IoT application projects.<br>🌱 I’m currently learning<br>- C# y .NET for web development.<br>- Best practices for IoT and machine learning.<br>- Advanced database management with SQL Server and Oracle.<br>⚡ Fun fact<br>- I love playing the piano in my free time.<br>- I am fascinated by the future of smart technologies like IoT.
 
